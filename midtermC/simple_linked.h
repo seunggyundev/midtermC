@@ -14,7 +14,7 @@ ListNode* insert(ListNode* head, ListNode* pre, element value);
 ListNode* delete_first(ListNode* head);
 ListNode* delete(ListNode* head, ListNode* pre);
 void print_list(ListNode* head);
-
+// 새로 추가한 내용들
 int get_length(ListNode* head);
 int suqare_sum(ListNode* head);
 void print_reverse(ListNode* head);
